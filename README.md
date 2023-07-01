@@ -1,2 +1,2 @@
-# AWS-Data-Analysis
+# AWS-Data-Analytics
 AWS Data analytics using Quicksight
